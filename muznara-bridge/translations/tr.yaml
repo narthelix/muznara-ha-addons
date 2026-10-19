@@ -1,0 +1,4 @@
+configuration:
+  name:
+    name: Köprünün adı
+    description: Muznara'da eşleştirirken görünen ad (örn. "evdeki-pi").

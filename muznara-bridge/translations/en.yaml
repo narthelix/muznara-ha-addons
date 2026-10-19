@@ -1,0 +1,4 @@
+configuration:
+  name:
+    name: Bridge name
+    description: The name shown in Muznara while pairing (e.g. "home-pi").
