@@ -1,7 +1,7 @@
 # Muznara Köprüsü (ADR-0140). The image is built from a private source repo and
 # published, multi-arch and cosign-signed, at ghcr.io/narthelix/muznara-bridge.
 name: Muznara Köprüsü
-version: "1.1.0"
+version: "1.2.0"
 slug: muznara_bridge
 description: Home Assistant'ı internete açmadan Muznara'ya bağlar
 url: https://github.com/narthelix/muznara-ha-addons/tree/main/muznara-bridge
