@@ -1,5 +1,10 @@
 # Değişiklikler
 
+## 1.3.1
+
+- Eşleştirme sayfasında QR artık yazının üstüne binmiyor.
+- Eklentinin Home Assistant'ta kendi simgesi var.
+
 ## 1.3.0
 
 - TV: asistanla telefondan ya da saatten konuşurken evdeki TV'nin sesi kısılır, konuşma bitince eski düzeyine döner (Muznara › Evim › TV › "Asistan dinlerken sesi kıs"). Köprü TV'de yalnız ses düzeyini ve sessize almayı değiştirir; TV'yi açıp kapatmaz, başka hiçbir şey oynatmaz.
